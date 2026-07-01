@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [games](#games) (2)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
 
 ---
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 
 ### implementation
 
@@ -56,6 +57,7 @@
 |---|---------|------------|----------|
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
+| 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 
 ### math
 
