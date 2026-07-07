@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (7)
-- [games](#games) (2)
+- [games](#games) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (5)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 | 2002B | [Removals Game](https://codeforces.com/contest/2002/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/2002/B%20-%20Removals%20Game/solution.cpp) |
 
@@ -72,6 +73,7 @@
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
