@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 8 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [games](#games) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (5)
-- [math](#math) (7)
+- [implementation](#implementation) (6)
+- [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
@@ -66,6 +66,7 @@
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 
 ### math
 
@@ -77,6 +78,7 @@
 | 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
 | 1337A | [Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1337/A%20-%20Ichihime%20and%20Triangle/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1426/A%20-%20Floor%20Number/solution.cpp) |
 | 1455C | [Ping-pong](https://codeforces.com/contest/1455/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1455/C%20-%20Ping-pong/solution.cpp) |
 
 ### number theory
