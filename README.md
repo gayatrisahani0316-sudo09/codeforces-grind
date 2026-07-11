@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 16 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (7)
+- [data structures](#data-structures) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (3)
-- [implementation](#implementation) (7)
+- [greedy](#greedy) (4)
+- [implementation](#implementation) (8)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -34,6 +35,12 @@
 | 1747B | [BAN BAN](https://codeforces.com/contest/1747/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1747/B%20-%20BAN%20BAN/solution.cpp) |
 | 2002B | [Removals Game](https://codeforces.com/contest/2002/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/2002/B%20-%20Removals%20Game/solution.cpp) |
 | 2155B | [Abraham's Great Escape](https://codeforces.com/contest/2155/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/2155/B%20-%20Abraham's%20Great%20Escape/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/343/B%20-%20Alternating%20Current/solution.cpp) |
 
 ### games
 
@@ -53,6 +60,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/343/B%20-%20Alternating%20Current/solution.cpp) |
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 1389A | [LCM Problem](https://codeforces.com/contest/1389/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/1389/A%20-%20LCM%20Problem/solution.cpp) |
@@ -63,6 +71,7 @@
 |---|---------|------------|----------|
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+| 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/343/B%20-%20Alternating%20Current/solution.cpp) |
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
