@@ -1,35 +1,27 @@
 #include <iostream>
+#include <vector>
 #include <algorithm>
 using namespace std;
  
 void solve() {
-    int x, y, z;
-    cin >> x >> y >> z;
- 
-    if (x == y && x >= z) {
-        cout << "YES
-" << x << " " << z << " " << z << "
-";
-    } 
-    else if (x == z && x >= y) {
-        cout << "YES
-" << x << " " << y << " " << y << "
-";
-    } 
-    else if (y == z && y >= x) {
-        cout << "YES
-" << x << " " << x << " " << y << "
-";
-    } 
-    else {
+    vector<int> arr(3);
+    cin >> arr[0] >> arr[1] >> arr[2];
+    sort(arr.begin(), arr.end());
+    if (arr[1] != arr[2]) {
         cout << "NO
+";
+    } else {
+        cout << "YES
+";
+        cout << arr[0] << " " << arr[0] << " " << arr[2] << "
 ";
     }
 }
- 
 int main() {
     int t;
     cin >> t;
-    while (t--) solve();
+    while (t--) {
+        solve();
+    }
     return 0;
 }
