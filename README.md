@@ -6,25 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 11 |
+| 23 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (8)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (1)
 - [games](#games) (3)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (12)
+- [implementation](#implementation) (13)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ### constructive algorithms
 
@@ -83,6 +90,7 @@
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/136/A%20-%20Presents/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 343B | [Alternating Current](https://codeforces.com/contest/343/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/343/B%20-%20Alternating%20Current/solution.cpp) |
 | 401C | [Team](https://codeforces.com/contest/401/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/401/C%20-%20Team/solution.cpp) |
@@ -126,6 +134,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 5C | [Longest Regular Bracket Sequence](https://codeforces.com/contest/5/problem/C) | 1900 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/5/C%20-%20Longest%20Regular%20Bracket%20Sequence/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/gayatrisahani0316-sudo09/codeforces-grind/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ---
 
